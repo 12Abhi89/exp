@@ -7,7 +7,7 @@ const route=require("./routes/route.js")
 
 var app=express();
 
-const PORT=3000;//port number
+const PORT=8080;//port number
 
 //db connection===================================================
 
